@@ -1,3 +1,4 @@
+// Logic
 [ORG 0x100]
 jmp start
 
